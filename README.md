@@ -25,7 +25,7 @@ It is designed for **functional testing**, QA experiments, or repeated trial sub
 
 ![Demo of the script](demo.gif)
 
---
+---
 
 ## Requirements
 
